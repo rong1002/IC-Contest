@@ -1,0 +1,23 @@
+
+FTP account:                       Bxxxxx
+
+Level:                             A
+CYCLE:                             8ns  , clock period , defined in tb.sv
+Time:                              551764.00
+Power:                             4.293e-03
+Area:                              619477.133363
+MAX_CYCLE_PER_PATTERN              50000, defined in tb.sv
+
+Time*Power*Area                    1,467,369,642.08839
+
+--- RTL category---
+HDL simulator :                    xrun 
+RTL filename :                     Bicubic.v         
+
+--- Pre-layout gate-level ---
+gate-levelfilename:                Bicubic_syn.v  
+gate-level sdf filename:           Bicubic_syn.sdf        
+gate-level spef filename:          Bicubic_syn.spef       
+
+-----(annotation)--------------------------------------------------------
+ (optional, write down anything that you want raters know)
